@@ -21,4 +21,4 @@
 * Data encrypted before sending to S3
 * Client manages the cycle completely
 ## Encryption in transit
-* Force HTTPS by using "aws:SecureTransport":"false"
+* Force HTTPS by denying "aws:SecureTransport":"false"
