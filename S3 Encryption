@@ -1,4 +1,0 @@
-# S3 Encryption
-## SSE-S3
-* Server side ecnryption using AES 256
-* Enabled by default for new objects and buckets
